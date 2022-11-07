@@ -1,0 +1,7 @@
+C:\Users\ulise\source\repos\FPU3D_Ejemplo2\bin\Debug\FPU3D_Ejemplo2.exe.config
+C:\Users\ulise\source\repos\FPU3D_Ejemplo2\bin\Debug\FPU3D_Ejemplo2.exe
+C:\Users\ulise\source\repos\FPU3D_Ejemplo2\bin\Debug\FPU3D_Ejemplo2.pdb
+C:\Users\ulise\source\repos\FPU3D_Ejemplo2\obj\Debug\FPU3D_Ejemplo2.csproj.AssemblyReference.cache
+C:\Users\ulise\source\repos\FPU3D_Ejemplo2\obj\Debug\FPU3D_Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\ulise\source\repos\FPU3D_Ejemplo2\obj\Debug\FPU3D_Ejemplo2.exe
+C:\Users\ulise\source\repos\FPU3D_Ejemplo2\obj\Debug\FPU3D_Ejemplo2.pdb
